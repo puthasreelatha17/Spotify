@@ -1,0 +1,9 @@
+2023-01-09 11:00:07,651 804  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-09 11:00:07,660 813  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\putha\git\repository\Spotify_Api_Framework/reports/Automation Report- 01_09_2023_11_00_07
+2023-01-09 11:00:07,778 931  [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-09 11:00:07,779 932  [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-09 11:00:18,812 11965 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-09 11:00:18,814 11967 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-09 11:00:18,974 12127 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-09 11:00:18,981 12134 [main] INFO  com.spotify.baseutil.BaseTest - Content type is: application/json
+2023-01-09 11:00:20,638 13791 [main] ERROR com.spotify.baseutil.BaseTest - Unable to validate json schema
