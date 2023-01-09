@@ -634,7 +634,7 @@ public  static void schemaValidation(Response response, String type) {
 	} catch (Exception e) {
 		e.printStackTrace();
 		error("Unable to validate json schema");
-		Assert.fail();
+		Assert.fail("Unable to validate json schema");
 	}
 }
 
